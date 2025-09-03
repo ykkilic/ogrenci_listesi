@@ -1,0 +1,3 @@
+/Users/yigitkagankilic/Desktop/Projects/cpp/ogrenci_listesi/cmake-build-debug/CMakeFiles/ogrenci_listesi.dir
+/Users/yigitkagankilic/Desktop/Projects/cpp/ogrenci_listesi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yigitkagankilic/Desktop/Projects/cpp/ogrenci_listesi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
